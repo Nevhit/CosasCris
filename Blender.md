@@ -5,3 +5,5 @@
   - Seleccionar el nodo bdf y darle a "**cntrl+shif+t**" y seleccionar todas las texturas, automaticamente se pondran en su sitio.
   - Para actualizar las texturas, seleccionar el nodo principal y darle a **"alt+R"** 
 
+- Para linkear una luz a un solo objeto (para que solo afecte a ese)
+  - Seleccionamos la luz en cuestion y en el cuadrado --> shading --> linklight y arrastramos el objeto que queremos que se vea afectado.
