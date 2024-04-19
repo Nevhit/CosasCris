@@ -1,6 +1,0 @@
-## Blender
-
-- Para cargar todas las texturas de golpe en un material de blender.
-  - Asegurarse de tener el addon Node Warger activado
-  - Seleccionar el nodo bdf y darle a "**cntrl+shif+t**" y seleccionar todas las texturas, automaticamente se pondran en su sitio.
-  - Para actualizar las texturas, seleccionar el nodo principal y darle a **"alt+R"** 
