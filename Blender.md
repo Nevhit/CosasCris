@@ -10,3 +10,10 @@
  
 - Para quitar imagenes enlazadas en el blender, darle al Shif + la X que aparece al lado del nombre: ![imagen](https://github.com/Nevhit/CosasCris/assets/14819619/b8202f62-d2f3-409e-811b-c6daad444098)  luego cuando guardes y vuelvas a abrir, desaparecera
 
+
+
+
+
+## Photoshop
+
+-En photoshop, si se mete una mascara de transparencia cuando se exporta como png, el resto de programas lo reconoce como el canal alpha para transparencias, no hace falta meter ningun canal en photoshop.
