@@ -17,3 +17,9 @@
 ## Photoshop
 
 -En photoshop, si se mete una mascara de transparencia cuando se exporta como png, el resto de programas lo reconoce como el canal alpha para transparencias, no hace falta meter ningun canal en photoshop.
+
+
+
+## Unity
+
+- Para quitar las lineas que salen de los lightmaps, si no funciona poner mas padding, quitar los mipmaps de los lightmaps.
