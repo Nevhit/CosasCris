@@ -1,5 +1,6 @@
 ## Blender
 
+- Para poner el mismo material a todos los objetos, se seleccionan todos, el ultimo el que ya tiene el material y luego Cntr+L y se linkea el material.
 - Para cargar todas las texturas de golpe en un material de blender.
   - Asegurarse de tener el addon Node Warger activado
   - Seleccionar el nodo bdf y darle a "**cntrl+shif+t**" y seleccionar todas las texturas, automaticamente se pondran en su sitio.
