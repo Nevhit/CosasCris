@@ -24,3 +24,7 @@
 ## Unity
 
 - Para quitar las lineas que salen de los lightmaps, si no funciona poner mas padding, quitar los mipmaps de los lightmaps.
+- Para exportar de blender a unity y que la rotacion salga 0,0,0 
+    *Z Forward
+    *Y Up
+
