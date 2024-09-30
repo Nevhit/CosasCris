@@ -27,4 +27,5 @@
 - Para exportar de blender a unity y que la rotacion salga 0,0,0 
     *Z Forward
     *Y Up
+    *Poner una opcion experimental que sale en la parte de abajo
 
